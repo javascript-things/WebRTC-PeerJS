@@ -1,2 +1,2 @@
-# P2PConnection
-a p2p connection
+# WebRTC Example
+ a webrtc using peer.js
