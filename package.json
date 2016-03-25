@@ -1,0 +1,19 @@
+{
+  "name": "p2pconnection",
+  "version": "1.0.0",
+  "description": "a p2p connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascript-things/P2PConnection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javascript-things/P2PConnection/issues"
+  },
+  "homepage": "https://github.com/javascript-things/P2PConnection#readme"
+}
